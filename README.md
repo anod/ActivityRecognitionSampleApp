@@ -12,7 +12,7 @@ Reference:
 [ActivityRecognitionClient](http://developer.android.com/reference/com/google/android/gms/location/ActivityRecognitionClient.html)
 [ActivityRecognitionResult](http://developer.android.com/reference/com/google/android/gms/location/ActivityRecognitionResult.html)
 
-[Apk](https://raw.github.com/anod/ActivityRecognitionSampleApp/master/ActivityTest.apk)
+Download [APK](https://raw.github.com/anod/ActivityRecognitionSampleApp/master/ActivityTest.apk)
 
 ![Screenshot](https://raw.github.com/anod/ActivityRecognitionSampleApp/master/activity_recognition.png)
 
